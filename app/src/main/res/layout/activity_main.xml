@@ -26,4 +26,10 @@
             android:onClick="stopThread"
             android:text="Stop" />
 
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="goToSecondActivity"
+            android:text="Go to second activity" />
+
 </LinearLayout>
